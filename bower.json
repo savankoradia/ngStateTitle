@@ -1,0 +1,22 @@
+{
+  "name": "ng-state-title",
+  "version" : "1.0.0",
+  "authors": [
+    "koradia.savan@gmail.com"
+  ],
+  "description": "Directive to display title from state route params",
+  "main": "ngStateTitle.js",
+  "keywords": [
+    "page",
+    "title"
+  ],
+  "license": "MIT",
+  "homepage": "http://savankoradia.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
