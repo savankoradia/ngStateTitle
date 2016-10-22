@@ -11,6 +11,16 @@ Directive to display title from state route params
     // Include in your main HTML file
     <script src="/path/to/bower_components/ng-state-title/ngStateTitle.js"></script>
     
+    
+#### npm
+
+    // Get dependency using command line
+    npm install ng-state-title --save
+
+    // Include in your main HTML file
+    require("ng-state-title");
+
+    
 #Usage
 
 ####initialization
