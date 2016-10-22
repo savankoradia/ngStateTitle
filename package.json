@@ -1,6 +1,6 @@
 {
   "name": "ng-state-title",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Directive to display title from state route params",
   "main": "ngStateTitle.js",
   "scripts": {
