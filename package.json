@@ -1,0 +1,22 @@
+{
+  "name": "ng-state-title",
+  "version": "1.0.0",
+  "description": "Directive to display title from state route params",
+  "main": "ngStateTitle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savankoradia/ngStateTitle.git"
+  },
+  "keywords": [
+    "pageTitle"
+  ],
+  "author": "Savan Koradia <koradia.savan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savankoradia/ngStateTitle/issues"
+  },
+  "homepage": "https://github.com/savankoradia/ngStateTitle#readme"
+}
